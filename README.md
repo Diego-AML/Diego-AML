@@ -10,3 +10,6 @@
 - A mix of personal and collaborative projects focused on turning data into actionable insights.
 
 ⚡ *"Learning every day, improving every project."* ⚡
+
+Find me on LinkedIn: www.linkedin.com/in/diegoamijares
+This is my personal account, my academic one can be found @DiegoA-ML
