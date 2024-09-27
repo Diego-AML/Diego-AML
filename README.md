@@ -13,4 +13,4 @@
 
 Find me on LinkedIn: www.linkedin.com/in/diegoamijares
 
-This is my personal account, my academic one can be found @DiegoA-ML !
+This is my main account, my backup can be found @DiegoA-ML2 !
